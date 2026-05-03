@@ -24,4 +24,14 @@
 ---
 [![](https://komarev.com/ghpvc/?username=ROWSAN-oss-JNG&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+snake game repo view
+<div class="center"> align</div>
+<h1 align="center">🎮 Snake Game Project</h1>
+<p align="center">Built with Logic • Powered by Code 🚀</p>
+
+![Python](https://img.shields.io/badge/Python-Project-blue)
+![Game](https://img.shields.io/badge/Type-Game-green)
+![Beginner](https://img.shields.io/badge/Level-Beginner-orange)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
